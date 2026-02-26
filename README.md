@@ -1,6 +1,3 @@
-أكيد ✨ ده Version معاد صياغته بشكل احترافي وأنضف وجاهز يتحط في README:
-
----
 
 # Folaz Supplements
 
@@ -87,7 +84,3 @@ The project includes building a complete brand identity system — from logo and
 * Finalize brand assets
 * Prepare presentation materials
 * Outline launch and promotional strategy
-
----
-
-لو حابة أعمله version أقوى شوية marketing-wise أو أكثر رسمي أكاديمي حسب الدكتور بيحب ايه، قوليلي 😉
